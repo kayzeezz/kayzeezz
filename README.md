@@ -1,21 +1,56 @@
-# 💫 About Me:
-I am a 4th year graduating BSIT student.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kayzeezz.kayzeezz" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&pause=1000&color=F7E5AF&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+Programmers!+👨‍💻;+Welcome+to+my+Profile!;" />
+</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kayzelle.dizon.12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kayzjee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kayzelle-dizon/) 
+<h3 align="center">I'm still in learning process</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kayzeezz&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kayzeezz&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kayzeezz&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div align="center">
+ 
+ 🌱 I’m currently learning **Cybersecurity**
 
----
-[![](https://visitcount.itsvg.in/api?id=kayzeezz&icon=2&color=2)](https://visitcount.itsvg.in)
+ 💬 Ask me about **Php, Python, Java, Bootstrap**
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:kayzeedizon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/kayzelle-dizon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ <hr/>
+ 
+<h2 align="center">⚛️ Languages, Frameworks, and Tools ⚛️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,discord,photoshop" />
+    <img src="https://skillicons.dev/icons?i=pr,python,javascript,java,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">📉 Stats 📉</h2>
+<br>
+<div align=center>
+  <img width=450 src="https://streak-stats.demolab.com/?user=kayzeezz&count_private=true&theme=onedark&border_radius=10" alt="streak stats"/>
+  <img width=420 src="https://github-readme-stats.vercel.app/api?username=kayzeezz&count_private=true&show_icons=true&theme=onedark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+</div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&pause=1000&color=F7E5AF&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Send+me+a+message+on+Gmail!;I'm+always+open+to+collab+and+learn+🥰">
+</h3>
+
+<br/>
