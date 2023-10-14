@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/kayzeezz/kayzeezz/blob/main/headergithub.png" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kayzeezz.kayzeezz" />
 
 <h1 align="center">
@@ -27,12 +28,39 @@
 </div>
 
  <hr/>
- 
+
+<div align=center>
+<img align="center" width=450 src="https://github.com/kayzeezz/kayzeezz/blob/main/coding.gif" />
 <h2 align="center">⚛️ Languages, Frameworks, and Tools ⚛️</h2>
 <br/>
-<div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,discord,photoshop" />
     <img src="https://skillicons.dev/icons?i=pr,python,javascript,java,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align=center>
+<h2 align="center">⭐ Certificates ⭐</h2>
+<br/>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Date</th>
+        </tr>
+        <tr>
+            <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/458d8375d7879f94c262f7b3ae241327e4a951a9">DataCamp: Understanding Data Engineering</a></td>
+            <td>2022-04-12</td>
+        </tr>
+        <tr>
+            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DE0EAA3E72CB32CF1E295B8EF95EC463CD5CA02D9DA443607ABB1504C8733081">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
+            <td>2021-12-13</td>
+        </tr>
+        <tr>
+            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A2C1401813A66807434505BC442AF4F685EB9935D033E7F6AB80287F7D356BFB">Oracle Cloud Infrastructure Foundations 2021 Associate</a></td>
+            <td>2021-12-21</td>
+        </tr>
+    </table>
 </div>
 
 <br/>
