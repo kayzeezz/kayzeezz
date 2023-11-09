@@ -48,16 +48,20 @@
             <th>Date</th>
         </tr>
         <tr>
+            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=54E47A85F6489B32A435E7F9AD96324F1DF9D6EE0D2249E9E94ECB0FE68F4406">Oracle Cloud Infrastructure 2023 AI Foundations Associate</a></td>
+            <td>2023-11-10</td>
+        </tr>
+        <tr>
             <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/458d8375d7879f94c262f7b3ae241327e4a951a9">DataCamp: Understanding Data Engineering</a></td>
             <td>2022-04-12</td>
         </tr>
         <tr>
-            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DE0EAA3E72CB32CF1E295B8EF95EC463CD5CA02D9DA443607ABB1504C8733081">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
-            <td>2021-12-13</td>
-        </tr>
-        <tr>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A2C1401813A66807434505BC442AF4F685EB9935D033E7F6AB80287F7D356BFB">Oracle Cloud Infrastructure Foundations 2021 Associate</a></td>
             <td>2021-12-21</td>
+        </tr>
+        <tr>
+            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=DE0EAA3E72CB32CF1E295B8EF95EC463CD5CA02D9DA443607ABB1504C8733081">Oracle Autonomous Database Cloud 2021 Certified Specialist</a></td>
+            <td>2021-12-13</td>
         </tr>
     </table>
 </div>
